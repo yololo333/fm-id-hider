@@ -8,6 +8,7 @@
 ### 1단계. 파일 다운로드
 
 이 페이지 위쪽에 있는 **`fmkorea-id-hider_1.zip`** 파일을 클릭한 다음, 우측 상단의 **다운로드(⬇) 아이콘**을 눌러서 저장하세요.
+<img width="1131" height="491" alt="스크린샷 2026-08-21 203247" src="https://github.com/user-attachments/assets/64601e77-d9c3-4958-9378-a28bcd05a174" />
 
 ### 2단계. 압축 풀기
 
@@ -22,10 +23,15 @@
    - 웨일: `whale://extensions`
    - 엣지: `edge://extensions`
 2. 화면 오른쪽 위에 있는 **"개발자 모드"** 스위치를 켜주세요.(웨일은 하단)
+<img width="794" height="71" alt="스크린샷 2026-08-21 203311" src="https://github.com/user-attachments/assets/f45b9b93-b751-46c0-a416-06d60ef727e4" />
+
 3. 화면 왼쪽 위 (또는 상단)에 나타나는 **"압축해제된 확장 프로그램을 로드합니다"** 버튼을 클릭하세요.
 4. 2단계에서 압축을 푼 폴더(`fmkorea-id-hider` 폴더)를 선택하세요.
+<img width="800" height="485" alt="스크린샷 2026-08-21 202955" src="https://github.com/user-attachments/assets/50e60eae-72c8-4eb4-83c7-8166f88a9b34" />
 
 이제 설치 완료입니다. 에펨코리아(fmkorea.com)에 접속하면 자동으로 닉네임이 블러 처리됩니다.
+<img width="961" height="329" alt="스크린샷 2026-08-21 203658" src="https://github.com/user-attachments/assets/067aa649-77f1-4b93-8cee-32ff5145f4f3" />
+<img width="589" height="327" alt="스크린샷 2026-08-21 203617" src="https://github.com/user-attachments/assets/06c0c993-1366-47d4-b980-cd5fc31d4227" />
 
 ## 사용법
 
